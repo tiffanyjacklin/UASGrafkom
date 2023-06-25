@@ -1,0 +1,12 @@
+# Blender MTL File: 'omaigat.blend'
+# Material Count: 1
+
+newmtl Material.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.165531 0.309267 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.399960 1.825181 2.671949
+Ni 1.450000
+d 1.000000
+illum 2

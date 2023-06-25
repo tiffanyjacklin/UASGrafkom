@@ -1,0 +1,25 @@
+# Blender MTL File: 'omaigat.blend'
+# Material Count: 2
+
+newmtl Floor.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.066875 0.518435
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\tiffa\\Downloads\\uploads_files_3844681_Another+bedroom_Blender\\Room Texture\\Floor\\Floor_Normal.jpg
+map_Kd C:\\Users\\tiffa\\Downloads\\uploads_files_3844681_Another+bedroom_Blender\\Room Texture\\Floor\\Floor_Color.jpg
+map_Ns C:\\Users\\tiffa\\Downloads\\uploads_files_3844681_Another+bedroom_Blender\\Room Texture\\Floor\\Floor_Roughness.jpg
+
+newmtl Wall.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.687406 0.800000 0.377742
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
