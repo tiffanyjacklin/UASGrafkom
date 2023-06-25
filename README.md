@@ -12,6 +12,8 @@ https://docs.google.com/document/d/1Z-IdWPb2Q4hJBfJk5FFlMyb09QYn39I9LD6fabovBxM/
 
 Link Youtube Video:
 
+https://youtu.be/zfVqEvJVWeQ
+
 <img width="133" alt="image" src="https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/da19f57c-782b-46e3-86c2-3a509d096884">
 <img width="133" alt="image" src="https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/72ae3b6c-980e-4be4-a7b5-fa58ac1684ec">
 <img width="133" alt="image" src="https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/6399c2c9-fe9c-4ee8-8270-a6625e740083">
