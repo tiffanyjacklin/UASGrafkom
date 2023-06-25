@@ -1,6 +1,6 @@
 # UAS Grafkom
 
-c14210021 Fiola Angelica
+c14210021 Fiola Angelica Deswita Allen
 
 c14210056 Tiffany Jacklin Polles
 
