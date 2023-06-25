@@ -4,7 +4,7 @@ c14210021 Fiola Angelica Deswita Allen
 
 c14210056 Tiffany Jacklin Polles
 
-c14210065 Jessy Marcelyn
+c14210065 Jessy Marcelyn Winoto
 
 Google Docs Laporan:
 
