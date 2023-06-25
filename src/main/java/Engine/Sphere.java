@@ -50,7 +50,6 @@ public class Sphere extends Circle{
 
 
     public void loadObject(){
-        System.out.println("Code done");
         vertices.clear();
         normal = new ArrayList<>();
         Vector3f temp = new Vector3f();
