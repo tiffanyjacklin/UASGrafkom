@@ -15,4 +15,3 @@ Link Youtube Video:
 https://youtu.be/fjjPkmY2ehI
 
 ![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/e48cb331-eced-4a73-b3fe-784721070246)
-![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/d6cc1e44-0ab8-428e-b9ce-98eed947342b)
