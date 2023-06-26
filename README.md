@@ -14,8 +14,5 @@ Link Youtube Video:
 
 https://youtu.be/fjjPkmY2ehI
 
-![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/0b163222-ebb9-4b1c-ba45-6bf2733f49ba)
-![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/e2781118-a8d4-4112-a2db-21379b4dd568)
-![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/80088c61-07cd-4a81-b544-041dde16d0e1)
-![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/f6f23267-1d9f-4ba8-9602-72166f4e3109)
-![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/dd7e1652-68ee-4231-a652-c8e0e9429a3d)
+![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/e48cb331-eced-4a73-b3fe-784721070246)
+![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/d6cc1e44-0ab8-428e-b9ce-98eed947342b)
