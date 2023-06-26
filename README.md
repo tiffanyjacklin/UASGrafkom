@@ -14,8 +14,9 @@ Link Youtube Video:
 
 https://youtu.be/fjjPkmY2ehI
 
-<img width="133" alt="image" src="https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/da19f57c-782b-46e3-86c2-3a509d096884">
-<img width="133" alt="image" src="https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/72ae3b6c-980e-4be4-a7b5-fa58ac1684ec">
-<img width="133" alt="image" src="https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/6399c2c9-fe9c-4ee8-8270-a6625e740083">
-<img width="133" alt="image" src="https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/096a3d8d-3580-4658-a945-27a275467322">
-<img width="133" alt="image" src="https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/0682b983-0b0f-4193-a17f-642e65ce1c1e">
+![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/2bca6893-b6e9-4a84-a7fc-3826674548b1)
+![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/e92312d0-3c3b-4a6f-b3ca-208427928b6e)
+![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/1cfc7b23-fa02-46e0-8f38-1ac53f8cfc80)
+![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/aca40617-6d44-4bf1-a81e-de7e62cb2c0c)
+![image](https://github.com/tiffanyjacklin/UASGrafkom/assets/107180694/82c3c78b-94ab-4b7e-8956-e0212c2487e3)
+
